@@ -9,18 +9,16 @@ Frontend adalah
 <p>HyperText Markup Language (HTML)</p>
 
 #### Kelebihan
-Kelebihan :
-- a
-- b
-- c
 
 #### Kekurangan
-Kekurangan : 
-- a
-- b
-- c
+
+#### Tren Perkembangan
+
+#### Contoh
+
 
 ## Backend
-
 ## Data Base
 ## Tools
+
+## Sumber: 
