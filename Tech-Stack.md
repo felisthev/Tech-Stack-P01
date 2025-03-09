@@ -1,24 +1,29 @@
 # Tech Stack & Web Environment
-<p>Tech stack adalah</p>
-<p>Tech stack tersusun dari beberapa komponen utama, yaitu frontend, backend, database, dan tools.</p>
+Tech stack adalah
+Tech stack tersusun dari beberapa komponen utama, yaitu:
+- Frontend
+  Frontend adalah
+- Backend
+  Backend adalah
+- Database
+  Database adalah
+- Tools
+  Tools adalah
 
-## Frontend
-Frontend adalah 
-
-### HTML
+## HTML - Frontend
 <p>HyperText Markup Language (HTML)</p>
 
-#### Kelebihan
+### Kelebihan
 
-#### Kekurangan
+### Kekurangan
 
-#### Tren Perkembangan
+### Tren Perkembangan
 
-#### Contoh Perusahaan
+### Contoh Perusahaan
 
 
-## Backend
-## Data Base
-## Tools
+## - Backend
+## - Data Base
+## - Tools
 
 ## Sumber: 
