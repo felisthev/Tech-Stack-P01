@@ -8,7 +8,7 @@ Frontend adalah
 HyperText Markup Language (HTML)
 
 #### Kelebihan
-Kelebihan : 
+<p>Kelebihan :</p>>
 - a
 - b
 - c
