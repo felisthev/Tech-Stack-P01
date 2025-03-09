@@ -1,6 +1,6 @@
 # Tech Stack
 <p>Tech Stack adalah</p>
-
+<p>Dalam pengembangan web ada frontend, backend, database, dan tools.</p>
 ## Frontend
 Frontend adalah 
 
