@@ -3,7 +3,7 @@
 <p>Tech stack tersusun dari beberapa komponen utama, yaitu:</p>
 
 ### 1. Frontend
-Frontend adalah
+Frontend merupakan komponen yang 
 ### 2. Backend
 Backend adalah
 ### 3. Database
@@ -13,7 +13,7 @@ Tools adalah
 
 # Contoh Tech Stack
 ## HTML - Frontend
-<p>HyperText Markup Language (HTML)</p>
+<p>HyperText Markup Language (HTML) </p>
 
 ### Kelebihan
 
@@ -26,6 +26,7 @@ Tools adalah
 
 ## - Backend
 ## - Data Base
-## - Tools
+## Github - Tools
+
 
 ## Sumber: 
