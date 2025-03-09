@@ -4,6 +4,7 @@
 ## Frontend
 ### (tech stack 1)
 #### Penjelasan 
+##### penjelasan panjang
 ## Backend
 ### (tech stack 2)
 #### Penjelasan 
