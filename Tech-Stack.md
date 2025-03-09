@@ -1,6 +1,6 @@
 # Tech Stack & Web Environment
-<p>Tech Stack adalah</p>
-<p>Dalam pengembangan web terdapat frontend, backend, database, dan tools.</p>
+<p>Tech stack adalah</p>
+<p>Tech stack tersusun dari beberapa komponen utama, yaitu frontend, backend, database, dan tools.</p>
 
 ## Frontend
 Frontend adalah 
