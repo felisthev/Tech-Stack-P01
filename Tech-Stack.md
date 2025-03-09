@@ -4,6 +4,7 @@ Tech Stack adalah
 ## Frontend
 Frontend adalah 
 ### HTML
+HyperText Markup Language (HTML)
 #### Kelebihan
 Kelebihan : 
 - a
