@@ -1,5 +1,6 @@
 # Tech Stack
-## Pengertian Tech Stack
-Tech stack adalah 
+## Definisi Tech Stack
 
-## Jenis Tech Stack
+## Frontend
+## Backend
+## 
