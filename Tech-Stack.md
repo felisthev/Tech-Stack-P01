@@ -2,13 +2,13 @@
 Tech stack adalah
 Tech stack tersusun dari beberapa komponen utama, yaitu:
 - Frontend
-  Frontend adalah
+  - Frontend adalah
 - Backend
-  Backend adalah
+  - Backend adalah
 - Database
-  Database adalah
+  - Database adalah
 - Tools
-  Tools adalah
+  - Tools adalah
 
 ## HTML - Frontend
 <p>HyperText Markup Language (HTML)</p>
