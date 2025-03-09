@@ -1,6 +1,7 @@
 # Tech Stack & Web Environment
-Tech stack adalah
-Tech stack tersusun dari beberapa komponen utama, yaitu:
+<p>Tech stack adalah</p>
+<p>Tech stack tersusun dari beberapa komponen utama, yaitu:</p>
+
 ### 1. Frontend
 Frontend adalah
 ### 2. Backend
