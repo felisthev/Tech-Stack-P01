@@ -16,6 +16,7 @@ Tools adalah
 <p>HyperText Markup Language (HTML) </p>
 
 ### Kelebihan
+
 ### Kekurangan
 
 ### Tren Perkembangan
@@ -24,7 +25,27 @@ Tools adalah
 
 
 ## Backend -
+
+### Kelebihan
+
+### Kekurangan
+
+### Tren Perkembangan
+
+### Contoh Perusahaan
+
+
 ## Database -
+
+### Kelebihan
+
+### Kekurangan
+
+### Tren Perkembangan
+
+### Contoh Perusahaan
+
+
 ## Tools - Github
 <p>GitHub adalah sebuah platform berbasis cloud yang digunakan sebagai layanan untuk mengembangan perangkat lunak yang bersifat open source. Github merupakan anakan dari sebuah sistem Version Control yang disebut Git. Dalam Github, pengguna dapat menyimpan, mengelola, melacak serta membagikan kode dari proyek perangkat lunak. Github memiliki berbagai fitur kolaborasi, sehingga pengguna lain dapat meninjau dan memberikan masukan mengenai kode proyek yang sedang dikerjakan.</p>
 
