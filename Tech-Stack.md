@@ -30,18 +30,20 @@ Tools adalah
 
 ### Kelebihan
 Dalam perkembangannya, Github memiliki beberapa kelebihan, diantaranya:
-#### Gratis untuk Digunakan
+#### 1. Gratis untuk Digunakan
 Github dapat diakses melalui website sehingga tidak perlu mengeluarkan biaya untuk menggunakannya. 
-#### Bersifat Open Source
+#### 2. Bersifat Open Source
 Github menyediakan berbagai proyek open-source yang dapat diakses oleh pengguna, sehingga menambah sumber belajar dan meningkatkan proyek perangkat lunaknya dengan lebih fleksibel. 
-#### Memudahkan Kontribusi 
+#### 3. Memudahkan Kontribusi 
 Suatu proyek dapat diakses secara publik, sehingga pengguna lain dapat dengan mudah memberikan masukan untuk membantu mengembangkan proyek tersebut. 
-#### Memudahkan Melacak Perubahan 
+#### 4. Memudahkan Melacak Perubahan 
 Github memberikan kemudahkan kepada pengguna untuk melacak perubahan yang terjadi dalam kode proyek perangkat lunak. 
-#### Dapat Diintegrasikan
+#### 5. Dapat Diintegrasikan
 Github dapat mengintegrasikan berbagai Development IDE seperti Visual Studio Code, dan Eclipse. Serta dapat diintegrasikan pula dengan platform lainnya seperti Amazon Web Service, Google Cloud, dan lain sebagainya.
 
 ### Kekurangan
+Selain kelebihannya, Github juga tidak terlepas dari kekurangannya, diantaranya:
+#### 1. 
 
 ### Tren Perkembangan
 
