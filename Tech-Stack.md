@@ -43,7 +43,11 @@ Github dapat mengintegrasikan berbagai Development IDE seperti Visual Studio Cod
 
 ### Kekurangan
 Selain kelebihannya, Github juga tidak terlepas dari kekurangannya, diantaranya:
-#### 1. 
+#### 1. Rumit untuk Dipelajari
+#### 2. Keterbatasan Fitur
+#### 3. Resiko Keamanan
+#### 4. Bergantung Kepada Internet
+#### 5. Kesulitan dalam Repositori Besar
 
 ### Tren Perkembangan
 
