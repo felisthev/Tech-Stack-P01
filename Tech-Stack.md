@@ -26,10 +26,20 @@ Tools adalah
 ## Backend -
 ## Database -
 ## Tools - Github
-<p>Github merupakan suatu platform berbasis cloud yang memberikan layanan untuk mengembangkan perangkat lunak secara online. Github sendiri merupakan anakan dari suatu sistem Version Control yaitu Git. Dengan Github, pengguna dapat menyimpan, mengelola, melacak dan membagikan kode dari suatu perangkat lunak. Github juga memberikan fitur kolaborasi sehingga kode tersebut dapat dikerjakan bersama dengan pengguna lain.</p>
-
+<p>GitHub adalah sebuah platform berbasis cloud yang digunakan sebagai layanan untuk mengembangan perangkat lunak yang bersifat open source. Github merupakan anakan dari sebuah sistem Version Control yang disebut Git. Dalam Github, pengguna dapat menyimpan, mengelola, melacak serta membagikan kode dari proyek perangkat lunak. Github memiliki berbagai fitur kolaborasi, sehingga pengguna lain dapat meninjau dan memberikan masukan mengenai kode proyek yang sedang dikerjakan.</p>
 
 ### Kelebihan
+Dalam perkembangannya, Github memiliki beberapa kelebihan, diantaranya:
+#### Gratis untuk Digunakan
+Github dapat diakses melalui website sehingga tidak perlu mengeluarkan biaya untuk menggunakannya. 
+#### Bersifat Open Source
+Github menyediakan berbagai proyek open-source yang dapat diakses oleh pengguna, sehingga menambah sumber belajar dan meningkatkan proyek perangkat lunaknya dengan lebih fleksibel. 
+#### Memudahkan Kontribusi 
+Suatu proyek dapat diakses secara publik, sehingga pengguna lain dapat dengan mudah memberikan masukan untuk membantu mengembangkan proyek tersebut. 
+#### Memudahkan Melacak Perubahan 
+Github memberikan kemudahkan kepada pengguna untuk melacak perubahan yang terjadi dalam kode proyek perangkat lunak. 
+#### Dapat Diintegrasikan
+Github dapat mengintegrasikan berbagai Development IDE seperti Visual Studio Code, dan Eclipse. Serta dapat diintegrasikan pula dengan platform lainnya seperti Amazon Web Service, Google Cloud, dan lain sebagainya.
 
 ### Kekurangan
 
