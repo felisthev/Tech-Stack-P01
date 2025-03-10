@@ -26,8 +26,7 @@ Tools adalah
 ## Backend -
 ## Database -
 ## Tools - Github
-Github merupakan suatu platform berbasis cloud yang memberikan layanan untuk mengembangkan perangkat lunak secara online. Github sendiri merupakan anakan dari suatu sistem Version Control yaitu Git. 
-Dengan Github, pengguna dapat menyimpan, mengelola, melacak dan membagikan kode dari suatu perangkat lunak. Github juga memberikan fitur kolaborasi sehingga kode tersebut dapat dikerjakan bersama dengan pengguna lain.
+<p>Github merupakan suatu platform berbasis cloud yang memberikan layanan untuk mengembangkan perangkat lunak secara online. Github sendiri merupakan anakan dari suatu sistem Version Control yaitu Git. Dengan Github, pengguna dapat menyimpan, mengelola, melacak dan membagikan kode dari suatu perangkat lunak. Github juga memberikan fitur kolaborasi sehingga kode tersebut dapat dikerjakan bersama dengan pengguna lain.</p>
 
 
 ### Kelebihan
