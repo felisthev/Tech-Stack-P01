@@ -13,7 +13,7 @@ Tools adalah
 
 # Contoh Tech Stack
 ## Frontend - HTML
-<p>HyperText Markup Language (HTML) </p>
+<p>_HyperText Markup Language_ (HTML) </p>
 
 ### Kelebihan
 
@@ -44,19 +44,22 @@ Tools adalah
 ### Tren Perkembangan
 
 ### Contoh Perusahaan
+#### 1. Facebook
+#### 2. Amazon
+#### 3. Pinterest
 
 
 ## Tools - Github
-<p>GitHub adalah sebuah platform berbasis cloud yang digunakan sebagai layanan untuk mengembangan perangkat lunak yang bersifat open source. Github merupakan anakan dari sebuah sistem Version Control yang disebut Git. Dalam Github, pengguna dapat menyimpan, mengelola, melacak serta membagikan kode dari proyek perangkat lunak (disebut Repository). Github memiliki berbagai fitur kolaborasi, sehingga pengguna lain dapat meninjau dan memberikan masukan mengenai kode proyek yang sedang dikerjakan.</p>
+GitHub adalah sebuah platform berbasis _cloud_ yang digunakan sebagai layanan untuk mengembangan perangkat lunak yang bersifat _open-source_. Github merupakan anakan dari sebuah sistem _Version Control_ yang disebut Git. Dalam Github, pengguna dapat menyimpan, mengelola, melacak serta membagikan kode dari proyek perangkat lunak atau disebut _Repository_. Github memiliki berbagai fitur kolaborasi, sehingga pengguna lain dapat meninjau dan memberikan masukan mengenai kode proyek yang sedang dikerjakan.
 
 ### Kelebihan
 Dalam perkembangannya, Github memiliki beberapa kelebihan, diantaranya:
 #### 1. Gratis untuk Digunakan
-Pengguna tidak perlu mengeluarkan biaya apapun untuk dapat mengunduh aplikasi Github. Selain dengan aplikasi, Github dapat diakses melalui website . 
+Pengguna tidak perlu mengeluarkan biaya apapun untuk dapat mengunduh aplikasi Github. Selain dengan aplikasi, Github dapat diakses melalui _website_ . 
 #### 2. Bersifat Open Source
-Github menyediakan berbagai proyek open-source yang dapat diakses oleh pengguna, sehingga menambah sumber belajar dan meningkatkan proyeknya dengan lebih fleksibel. 
+Github menyediakan berbagai proyek _open-source_ yang dapat diakses oleh pengguna, sehingga menambah sumber belajar dan meningkatkan proyeknya dengan lebih fleksibel. 
 #### 3. Memperluas Kontribusi 
-Suatu repository dapat diakses secara publik, sehingga pengguna lain dapat dengan mudah memberikan masukan untuk membantu mengembangkan kode proyek. 
+Suatu _repository_ dapat diakses secara publik, sehingga pengguna lain dapat dengan mudah memberikan masukan untuk membantu mengembangkan kode proyek. 
 #### 4. Memudahkan Melacak Perubahan 
 Github memberikan fitur untuk melacak perubahan yang terjadi dalam kode repository. Dengan ini pengguna dapat dengan mudah mengetahui perubahan apa saja yang dilakukan oleh pengguna lain dalam repository tersebut. 
 #### 5. Dapat Diintegrasikan
@@ -78,6 +81,8 @@ Dalam menangani repository yang besar atau riwayat yang luas, Github dapat menga
 ### Tren Perkembangan
 
 ### Contoh Perusahaan
-
+#### 1. Druva
+#### 2. Pure Storage, Inc.
+#### 3. Mohawk Industries, Inc.
 
 ## Sumber: 
