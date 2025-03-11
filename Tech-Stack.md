@@ -35,18 +35,40 @@ _HyperText Markup Language_ (HTML)
 ### Contoh Perusahaan
 
 ## Database - MySQL
-MySQL adalah salah satu contoh _Relational Database Management System_ (RDBMS) yang bersifat _open-source_. MySQL sering digunakan untuk kebutuhan website pribadi maupun perusahaan. MySQL dapat mendefinisikan hubungan antar data dengan baik dengan menggunakan tabel, sehingga dapat meningkatkan kecepatan kinerja _website_. Database ini menggunakan bahasa _Structured Query Language_ (SQL) untuk membaca dan memperbarui data.
+MySQL adalah salah satu contoh _Relational Database Management System_ (RDBMS) yang bersifat _open-source_, selain itu MySQL memiliki 2 lisensi yaitu _free software_ dan _shareware_. MySQL sering digunakan untuk kebutuhan website pribadi maupun perusahaan. MySQL dapat mendefinisikan hubungan antar data dengan baik dengan menggunakan tabel, sehingga dapat meningkatkan kecepatan kinerja _website_. Database ini menggunakan bahasa _Structured Query Language_ (SQL) untuk membaca dan memperbarui data.
 
 ### Kelebihan
+MySQL memiliki beberapa kelebihan, beberapa diantaranya:
+#### 1. Bersifat Open Source
+Dengan memiliki lisensi free software, sehingga pengguna dapat mengakses informasi atau solusi mengenai kinerja MySQL dengan lebih mudah dan tanpa mengeluarkan biaya.
+#### 2. Tidak Memerlukan RAM Besar
+Dibandingkan dengan database lainnya, MySQL dapat diakses dalam kapasitas server atau RAM yang kecil. 
+#### 3. Tipe Data Bervariasi dan Fleksibel
+MySQL menyediakan struktur data yang fleksibel serta tipe data yang bervariasi. Dengan ini MySQL akan mempermudah dalam mengembangkan program yang kompleks dan terstruktur. 
+#### 4. Mendukung Multi User
+MySQL mendukung fitur _multi-user_, sehingga suatu program dapat dikelola atau dikembangkan bersama dengan pengguna lain secara _real time_. Hal ini dapat mengefisiensi waktu dalam pengerjaan program. 
+#### 5. Keamanan Terjamin
+Meskipun bersifat _open-source_, MySQL menyediakan fitur keamanan terjamin. Salah satu contohnya dengan enkripsi password yang tinggi dalam mengatur akses pengguna.   
+#### 6. Dapat Diintegrasikan dengan Bahasa Pemrograman Lain
+MySQL dapat mengintegrasi bahasa pemrograman lain seperti R, Python, C++, dan lain sebagainya. Sehingga dengan integrasi tersebut, program dapat dikembangkan dengan lebih efektif. 
 
 ### Kekurangan
+#### 1. Sulit Mengelola DataBase yang Besar
+Karena MySQL dapat diakses dengan kapasitas RAM yang kecil, maka fitur yang diberikan cukup terbatas. Hal ini menyebabkan akan terjadi kesulitan jika ingin mengelola program dengan data yang lebih besar.
+#### 2. Kurangnya Technical Support
+MySQL bersifat open-source, sehingga tidak memiliki technical support yang memadai. Pengguna akan kesulitan dalam menghubungi technical support jika terjadi masalah dalam pengoperasian program.
+#### 3. Kurang Sesuai untuk Aplikasi Game dan Mobile
+Database MySQL tidak sesuai untuk pengembangan aplikasi berbasis game dan _mobile_, karena dalam mengembangkan aplikasi tersebut memerlukan database server yang bersifat _cloud_ (_real-time_). 
 
 ### Tren Perkembangan
 
 ### Contoh Perusahaan
 #### 1. Facebook
-#### 2. Amazon
-#### 3. Pinterest
+Facebook merupakan sebuah _website_ ataupun aplikasi media sosial yang digunakan untuk menghubungkan berbagai pengguna dari seluruh dunia. Dalam pengembangannya, Facebook memanfaatkan MySQL dalam mengelola seluruh data yang tersimpan dimulai dari profil pengguna hingga interaksi dan komentar. 
+#### 2. X / Twitter
+X / Twitter merupakan sebuah sosial media dimana pengguna dapat membagikan, mengikuti serta melakukan interaksi dengan pengguna lainnya secara _online_. X / Twitter menggunakan MySQL dalam mengelola dan mengumpulkan berbagai informasi seperti akun pengguna, hubungan dengan pengguna lain, dan sistem autentikasi dengan konsistensi yang kuat.
+#### 3. Netflix 
+Netflix merupakan 
 
 
 ## Tools - Github
