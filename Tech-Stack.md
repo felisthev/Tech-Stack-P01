@@ -55,7 +55,7 @@ Dalam perkembangannya, Github memiliki beberapa kelebihan, diantaranya:
 Github dapat diakses dengan mengunduh aplikasi Github ataupun melalui website sehingga tidak perlu mengeluarkan biaya untuk menggunakannya. 
 #### 2. Bersifat Open Source
 Github menyediakan berbagai proyek open-source yang dapat diakses oleh pengguna, sehingga menambah sumber belajar dan meningkatkan proyek perangkat lunaknya dengan lebih fleksibel. 
-#### 3. Memudahkan Kontribusi 
+#### 3. Memperluas Kontribusi 
 Suatu proyek dapat diakses secara publik, sehingga pengguna lain dapat dengan mudah memberikan masukan untuk membantu mengembangkan proyek tersebut. 
 #### 4. Memudahkan Melacak Perubahan 
 Github memberikan kemudahkan kepada pengguna untuk melacak perubahan yang terjadi dalam kode proyek perangkat lunak. 
@@ -67,7 +67,7 @@ Selain kelebihannya, Github juga tidak terlepas dari kekurangannya, diantaranya:
 #### 1. Rumit untuk Dipelajari
 #### 2. Keterbatasan Fitur
 #### 3. Resiko Keamanan
-#### 4. Bergantung Kepada Internet
+#### 4. Ketergantungan Kepada Internet
 #### 5. Kesulitan dalam Repositori Besar
 
 ### Tren Perkembangan
