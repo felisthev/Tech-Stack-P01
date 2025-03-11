@@ -85,9 +85,8 @@ Dalam menangani _repository_ yang besar atau riwayat yang luas, Github dapat men
 Microsoft merupakan sebuah perusahaan yang mengembangkan produk produk yang terkait dengan komputer. Microsoft telah menggunakan Github sejak 2012. Kemudian pada 4 Juni 2018, Github diakuisisi oleh Microsoft sebesar 7,5 miliar Dollar.
 #### 2. IBM 
 _International Business Machines Corporation_ atau IBM merupakan perusahaan yang memproduksi atau menyediakan berbagai perangkat keras dan perangkat lunak. IBM menggunakan Github sebagai platform dalam mengembangkan proyek mereka, salah satu contohnya adalah IBM Granite yang merupakan model _AI_ berbasis  _cloud_.  
-  <a href=”https://github.com/ibm-granite”> https://github.com/ibm-granite </a> 
+Link Github : <a href=”https://github.com/ibm-granite”> https://github.com/ibm-granite </a> 
 #### 3. Ford Motor Company
-_Ford Motor Company_ merupakan suatu perusahaan yang berpusat pada otomotif. Perusahaan ini menggunakan Github untuk mempublikasikan repository mereka secara _open-source_.   
-  <a href=”https://github.com/ford”> https://github.com/ford </a> 
+_Ford Motor Company_ merupakan suatu perusahaan yang berpusat pada otomotif. Perusahaan ini menggunakan Github untuk mempublikasikan repository mereka secara _open-source_.  Link Github : <a href=”https://github.com/ford”> https://github.com/ford </a> 
 
 ## Sumber: 
