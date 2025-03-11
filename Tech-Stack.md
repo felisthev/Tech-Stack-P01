@@ -53,6 +53,7 @@ Meskipun bersifat _open-source_, MySQL menyediakan fitur keamanan terjamin. Sala
 MySQL dapat mengintegrasi bahasa pemrograman lain seperti R, Python, C++, dan lain sebagainya. Sehingga dengan integrasi tersebut, program dapat dikembangkan dengan lebih efektif. 
 
 ### Kekurangan
+MySQL juga memiliki beberapa kelemahkan, diantaranya:
 #### 1. Sulit Mengelola DataBase yang Besar
 Karena MySQL dapat diakses dengan kapasitas RAM yang kecil, maka fitur yang diberikan cukup terbatas. Hal ini menyebabkan akan terjadi kesulitan jika ingin mengelola program dengan data yang lebih besar.
 #### 2. Kurangnya Technical Support
