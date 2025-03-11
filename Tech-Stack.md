@@ -67,8 +67,8 @@ Database MySQL tidak sesuai untuk pengembangan aplikasi berbasis game dan _mobil
 Facebook merupakan sebuah _website_ ataupun aplikasi media sosial yang digunakan untuk menghubungkan berbagai pengguna dari seluruh dunia. Dalam pengembangannya, Facebook memanfaatkan MySQL dalam mengelola seluruh data yang tersimpan dimulai dari profil pengguna hingga interaksi dan komentar. 
 #### 2. X / Twitter
 X / Twitter merupakan sebuah sosial media dimana pengguna dapat membagikan, mengikuti serta melakukan interaksi dengan pengguna lainnya secara _online_. X / Twitter menggunakan MySQL dalam mengelola dan mengumpulkan berbagai informasi seperti akun pengguna, hubungan dengan pengguna lain, dan sistem autentikasi dengan konsistensi yang kuat.
-#### 3. Netflix 
-Netflix merupakan 
+#### 3. Amazon
+Amazon merupakan platform yang berfokus dalam _e-commerce_, komputasi awan, pemasaran _online_, streaming digital, hingga _AI_. Amazon memanfaatkan MySQL melalui Amazon _Relational Database Service_ (RDS) untuk mengelola tugas administrasi basis data dengan efisien, termasuk dalam pencadangan, peningkatan, pemantauan, penskalaan, serta replikasi.
 
 
 ## Tools - Github
