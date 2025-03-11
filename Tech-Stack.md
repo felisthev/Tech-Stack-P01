@@ -2,6 +2,11 @@
 Tech stack merupakan kombinasi berbagai komponen yang digunakan untuk mengembangkan suatu _website_ / aplikasi.  
 Tech stack tersusun dari beberapa komponen utama, yaitu:
 
+1. wdsa
+2. asdf
+3. sdf
+4. sdf
+
 ### 1. Frontend
 Frontend merupakan komponen yang 
 ### 2. Backend
