@@ -13,7 +13,7 @@ Tools adalah
 
 # Contoh Tech Stack
 ## Frontend - HTML
-<p>_HyperText Markup Language_ (HTML) </p>
+_HyperText Markup Language_ (HTML)
 
 ### Kelebihan
 
@@ -61,22 +61,22 @@ Github menyediakan berbagai proyek _open-source_ yang dapat diakses oleh penggun
 #### 3. Memperluas Kontribusi 
 Suatu _repository_ dapat diakses secara publik, sehingga pengguna lain dapat dengan mudah memberikan masukan untuk membantu mengembangkan kode proyek. 
 #### 4. Memudahkan Melacak Perubahan 
-Github memberikan fitur untuk melacak perubahan yang terjadi dalam kode repository. Dengan ini pengguna dapat dengan mudah mengetahui perubahan apa saja yang dilakukan oleh pengguna lain dalam repository tersebut. 
+Github memberikan fitur untuk melacak perubahan yang terjadi dalam kode _repository_. Dengan ini pengguna dapat dengan mudah mengetahui perubahan apa saja yang dilakukan oleh pengguna lain dalam _repository_ tersebut. 
 #### 5. Dapat Diintegrasikan
-Github dapat mengintegrasikan berbagai Development IDE seperti Visual Studio Code, dan Eclipse. Serta dapat diintegrasikan pula dengan platform lainnya seperti Amazon Web Service, Google Cloud, dan lain sebagainya.
+Github dapat mengintegrasikan berbagai _Development IDE_ seperti _Visual Studio Code_, dan _Eclipse_. Serta dapat diintegrasikan pula dengan platform lainnya seperti _Amazon Web Service_, _Google Cloud_, dan lain sebagainya.
 
 ### Kekurangan
 Selain kelebihannya, Github juga tidak terlepas dari kekurangannya, diantaranya:
 #### 1. Rumit untuk Dipelajari
-Terdapat beberapa fitur yang cukup sulit dipahami oleh pengguna yang masih pemula. Contohnya seperti branch, merge, pull request dan sebagainya
+Terdapat beberapa fitur yang cukup sulit dipahami oleh pengguna yang masih pemula. Contohnya seperti _branch_, _merge_, _pull request_ dan sebagainya
 #### 2. Keterbatasan Fitur
 Dalam akun Github gratis, Github memberikan batasan pada beberapa layanan atau fitur. Salah satunya yaitu layanan privasi. 
 #### 3. Resiko Keamanan
-Repository dalam Github dapat diakses oleh siapa saja, sehingga menimbulkan resiko keamanan seperti penyalahgunaan akses, spam, serta kode kode berbahaya. 
+_Repository_ dalam Github dapat diakses oleh siapa saja, sehingga menimbulkan resiko keamanan seperti penyalahgunaan akses, spam, serta kode kode berbahaya. 
 #### 4. Ketergantungan Kepada Internet
 Github memerlukan akses internet untuk dapat digunakan. Sehingga ketika terjadi masalah pada internet, maka akan memengaruhi kinerja Github. 
 #### 5. Kesulitan dalam Repositori Besar
-Dalam menangani repository yang besar atau riwayat yang luas, Github dapat mengalami kendala dalam kinerjanya. Sehingga jika pengguna mengelola repository tersebut, diperlukan waktu yang lebih lama.
+Dalam menangani _repository_ yang besar atau riwayat yang luas, Github dapat mengalami kendala dalam kinerjanya. Sehingga jika pengguna mengelola _repository_ tersebut, diperlukan waktu yang lebih lama.
 
 ### Tren Perkembangan
 
