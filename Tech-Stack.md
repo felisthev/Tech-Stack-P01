@@ -87,6 +87,8 @@ Microsoft merupakan sebuah perusahaan yang mengembangkan produk produk yang terk
 _International Business Machines Corporation_ atau IBM merupakan perusahaan yang memproduksi atau menyediakan berbagai perangkat keras dan perangkat lunak. IBM menggunakan Github sebagai platform dalam mengembangkan proyek mereka, salah satu contohnya adalah IBM Granite yang merupakan model _AI_ berbasis  _cloud_.  
 Link Github : <a href=”https://github.com/ibm-granite”> https://github.com/ibm-granite </a> 
 #### 3. Ford Motor Company
-_Ford Motor Company_ merupakan suatu perusahaan yang berpusat pada otomotif. Perusahaan ini menggunakan Github untuk mempublikasikan repository mereka secara _open-source_.  Link Github : <a href=”https://github.com/ford”> https://github.com/ford </a> 
+_Ford Motor Company_ merupakan suatu perusahaan yang berpusat pada otomotif. Perusahaan ini menggunakan Github untuk mempublikasikan repository mereka secara _open-source_.  
+  
+Link Github : <a href=”https://github.com/ford”> https://github.com/ford </a> 
 
 ## Sumber: 
