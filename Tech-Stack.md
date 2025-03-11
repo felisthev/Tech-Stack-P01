@@ -1,11 +1,6 @@
 # Tech Stack & Web Environment
 Tech stack merupakan kombinasi berbagai komponen yang digunakan untuk mengembangkan suatu _website_ / aplikasi.  
 Tech stack tersusun dari beberapa komponen utama, yaitu:
-1. asdfg
-2. 1234567
-3. asdfghyuj
-4. sdfghj
-5. sdf
 
 ### 1. Frontend
 Frontend merupakan komponen yang 
@@ -40,7 +35,8 @@ _HyperText Markup Language_ (HTML)
 ### Contoh Perusahaan
 
 ## Database - MySQL
-MySQL adalah 
+MySQL adalah salah satu contoh _Relational Database Management System_ (RDBMS) yang bersifat _open-source_. MySQL sering digunakan untuk kebutuhan website pribadi maupun perusahaan. MySQL dapat mendefinisikan hubungan antar data dengan baik dengan menggunakan tabel, sehingga dapat meningkatkan kecepatan kinerja _website_. Database ini menggunakan bahasa _Structured Query Language_ (SQL) untuk membaca dan memperbarui data.
+
 ### Kelebihan
 
 ### Kekurangan
