@@ -33,10 +33,12 @@ _HyperText Markup Language_ (HTML)
 ### Tren Perkembangan
 
 ### Contoh Perusahaan
-
+1. asdf
+2. asdfg
+3. asdfg
 
 ## Database - MySQL
-
+MySQL adalah 
 ### Kelebihan
 
 ### Kekurangan
