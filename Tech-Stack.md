@@ -63,7 +63,7 @@ Suatu _repository_ dapat diakses secara publik, sehingga pengguna lain dapat den
 #### 4. Memudahkan Melacak Perubahan 
 Github memberikan fitur untuk melacak perubahan yang terjadi dalam kode _repository_. Dengan ini pengguna dapat dengan mudah mengetahui perubahan apa saja yang dilakukan oleh pengguna lain dalam _repository_ tersebut. 
 #### 5. Dapat Diintegrasikan
-Github dapat mengintegrasikan berbagai _Development IDE_ seperti _Visual Studio Code_, dan _Eclipse_. Serta dapat diintegrasikan pula dengan platform lainnya seperti _Amazon Web Service_, _Google Cloud_, dan lain sebagainya.
+Github dapat mengintegrasikan berbagai _Development IDE_ seperti _Visual Studio Code_, dan _Eclipse_. Serta dapat diintegrasikan pula dengan platform lainnya seperti _Amazon Web Service_, _Google Cloud_, dan lain sebagainya.  
 
 ### Kekurangan
 Selain kelebihannya, Github juga tidak terlepas dari kekurangannya, diantaranya:
@@ -76,7 +76,7 @@ _Repository_ dalam Github dapat diakses oleh siapa saja, sehingga menimbulkan re
 #### 4. Ketergantungan Kepada Internet
 Github memerlukan akses internet untuk dapat digunakan. Sehingga ketika terjadi masalah pada internet, maka akan memengaruhi kinerja Github. 
 #### 5. Kesulitan dalam Repositori Besar
-Dalam menangani _repository_ yang besar atau riwayat yang luas, Github dapat mengalami kendala dalam kinerjanya. Sehingga jika pengguna mengelola _repository_ tersebut, diperlukan waktu yang lebih lama.
+Dalam menangani _repository_ yang besar atau riwayat yang luas, Github dapat mengalami kendala dalam kinerjanya. Sehingga jika pengguna mengelola _repository_ tersebut, diperlukan waktu yang lebih lama.  
 
 ### Tren Perkembangan
 
