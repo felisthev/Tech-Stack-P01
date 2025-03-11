@@ -1,5 +1,5 @@
 # Tech Stack & Web Environment
-<p>Tech stack merupakan kombinasi berbagai komponen yang digunakan untuk mengembangkan suatu website / aplikasi.</p>
+Tech stack merupakan kombinasi berbagai komponen yang digunakan untuk mengembangkan suatu _website_ / aplikasi.
 <p>Tech stack tersusun dari beberapa komponen utama, yaitu:</p>
 
 ### 1. Frontend
