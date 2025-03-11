@@ -1,6 +1,9 @@
 # Tech Stack & Web Environment
 Tech stack merupakan kombinasi berbagai komponen yang digunakan untuk mengembangkan suatu _website_ / aplikasi.  
 Tech stack tersusun dari beberapa komponen utama, yaitu:
+1. asdf
+2. asdfgh
+3. asdfghj
 
 ### 1. Frontend
 Frontend merupakan komponen yang 
@@ -33,9 +36,6 @@ _HyperText Markup Language_ (HTML)
 ### Tren Perkembangan
 
 ### Contoh Perusahaan
-1. asdf
-2. asdfg
-3. asdfg
 
 ## Database - MySQL
 MySQL adalah 
