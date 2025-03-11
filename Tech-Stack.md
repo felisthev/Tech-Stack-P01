@@ -1,6 +1,6 @@
 # Tech Stack & Web Environment
-Tech stack merupakan kombinasi berbagai komponen yang digunakan untuk mengembangkan suatu _website_ / aplikasi.
-<p>Tech stack tersusun dari beberapa komponen utama, yaitu:</p>
+Tech stack merupakan kombinasi berbagai komponen yang digunakan untuk mengembangkan suatu _website_ / aplikasi.  
+Tech stack tersusun dari beberapa komponen utama, yaitu:
 
 ### 1. Frontend
 Frontend merupakan komponen yang 
@@ -88,7 +88,6 @@ _International Business Machines Corporation_ atau IBM merupakan perusahaan yang
 Link Github : <a href=”https://github.com/ibm-granite”> https://github.com/ibm-granite </a> 
 #### 3. Ford Motor Company
 _Ford Motor Company_ merupakan suatu perusahaan yang berpusat pada otomotif. Perusahaan ini menggunakan Github untuk mempublikasikan repository mereka secara _open-source_.  
-  
-Link Github : <a href=”https://github.com/ford”> https://github.com/ford </a> 
+  Link Github : <a href=”https://github.com/ford”> https://github.com/ford </a> 
 
 ## Sumber: 
