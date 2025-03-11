@@ -35,7 +35,7 @@ Tools adalah
 ### Contoh Perusahaan
 
 
-## Database -
+## Database - MySQL
 
 ### Kelebihan
 
@@ -52,7 +52,7 @@ Tools adalah
 ### Kelebihan
 Dalam perkembangannya, Github memiliki beberapa kelebihan, diantaranya:
 #### 1. Gratis untuk Digunakan
-Github dapat diakses melalui website sehingga tidak perlu mengeluarkan biaya untuk menggunakannya. 
+Github dapat diakses dengan mengunduh aplikasi Github ataupun melalui website sehingga tidak perlu mengeluarkan biaya untuk menggunakannya. 
 #### 2. Bersifat Open Source
 Github menyediakan berbagai proyek open-source yang dapat diakses oleh pengguna, sehingga menambah sumber belajar dan meningkatkan proyek perangkat lunaknya dengan lebih fleksibel. 
 #### 3. Memudahkan Kontribusi 
