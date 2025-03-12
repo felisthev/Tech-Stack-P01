@@ -1,16 +1,3 @@
-# Tech Stack & Web Environment
-Tech stack merupakan kombinasi berbagai komponen yang digunakan untuk mengembangkan suatu _website_ / aplikasi.  
-Tech stack tersusun dari beberapa komponen utama, yaitu:
-
-### 1. Frontend
-Frontend merupakan komponen yang 
-### 2. Backend
-Backend adalah
-### 3. Database
-Database adalah
-### 4. Tools
-Tools adalah
-
 # Contoh Tech Stack
 ## Frontend - HTML
 _HyperText Markup Language_ (HTML)
