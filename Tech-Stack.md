@@ -120,3 +120,18 @@ _Ford Motor Company_ merupakan suatu perusahaan yang berpusat pada otomotif. Per
   Link Github : <a href=”https://github.com/ford”> https://github.com/ford </a> 
 
 ## Sumber: 
+<a href=”https://aws.amazon.com/id/rds/mysql/”> https://aws.amazon.com/id/rds/mysql/ </a>   
+<a href=”https://codingstudio.id/blog/kelebihan-dan-kekurangan-mysql/”> https://codingstudio.id/blog/kelebihan-dan-kekurangan-mysql/ </a>   
+<a href=”https://dqlab.id/kelebihan-dan-kekurangan-mysql-yang-harus-diketahui-oleh-praktisi-data”> https://dqlab.id/kelebihan-dan-kekurangan-mysql-yang-harus-diketahui-oleh-praktisi-data </a>   
+<a href=”https://itbox.id/blog/contoh-database-terpopuler-dan-paling-favorit/”> https://itbox.id/blog/contoh-database-terpopuler-dan-paling-favorit/ </a>   
+<a href=”https://medium.com/@dynamogeeks/why-youtube-facebook-and-netflix-still-choose-sql-over-nosql-7149eb0272f0”> https://medium.com/@dynamogeeks/why-youtube-facebook-and-netflix-still-choose-sql-over-nosql-7149eb0272f0 </a>   
+<a href=”https://www.dewaweb.com/blog/contoh-database-terpopuler/#2_MySQL”> https://www.dewaweb.com/blog/contoh-database-terpopuler/#2_MySQL </a>   
+<a href=”https://www.yesitlabs.com/top-trends-in-sql-development-what-to-look-for-in-a-developer/”> https://www.yesitlabs.com/top-trends-in-sql-development-what-to-look-for-in-a-developer/ </a>   
+<a href=”https://www.revou.co/kosakata/github”> https://www.revou.co/kosakata/github </a>   
+<a href=””>  </a>   
+<a href=””>  </a>   
+<a href=””>  </a>   
+<a href=””>  </a>   
+<a href=””>  </a>   
+<a href=””>  </a>   
+<a href=””>  </a>   
