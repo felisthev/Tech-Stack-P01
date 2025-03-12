@@ -113,7 +113,13 @@ Github memerlukan akses internet untuk dapat digunakan. Sehingga ketika terjadi 
 Dalam menangani _repository_ yang besar atau riwayat yang luas, Github dapat mengalami kendala dalam kinerjanya. Sehingga jika pengguna mengelola _repository_ tersebut, diperlukan waktu yang lebih lama.  
 
 ### Tren Perkembangan
-
+Github telah mengembangkan berbagai fitur pada tahun 2025, beberapa diantaranya:
+#### 1. Pengembangan Artificial Intelligence
+Github mengembangkan GitHub Copilot, yatiu sebuah program _AI_ untuk membuat kode serta mendeteksi bug dalam kode _repository_ dengan lebih mudah dan cepat.
+#### 2. Menambahkan bahasa pemrograman 
+Selain bahasa pemrograman JavaScript, Python, dan Java, Github terus menambahkan bahasa pemrograman baru sehingga pengguna akan semakin mudah dalam mengakses ataupun mengelola kode dalam _repository_. Contohnya seperti bahasa pemrograman TypeScript, Rust dan lain sebagainya
+#### 3. DevOps dan Continuous Integration/Continuous Deployment
+Github menggunakan DevOps dan Continuous Integration/Continuous Deployment (CI/CD) untuk mengoptimalisasikan integrasi data sehingga membantu dalam mengembangkan _repository_ mereka.
 
 ### Contoh Perusahaan
 #### 1. Microsoft Corporation
