@@ -29,11 +29,17 @@ Python mendukung bahasa pemrograman lain yang bersifat objek (OOP) seperti ava, 
 Dengan melali _interpreter_, Python memungkinkan pengujian kode proyek secara langsung. Dan dengan tipe data yang dinamis akan memudahkan modifikasi data tanpa harus mendeklarasikan tipe variabel secara eksplisit.
 
 ### Kekurangan
-#### 1. 
-#### 2. 
-#### 3. 
-#### 4. 
-#### 5. 
+#### 1. Peforma Lambat
+Tidak seperti Java dan C++, Python memiliki peforma yang lebih lambat. Hal ini disebabkan oleh adanya _Global Interpreter Lock_ (GIL) yang digunakan untuk mengeksekusi satu kode saja dalam satu waktu.
+
+#### 2. Penggunaan Memori
+Python memerlukan memori yang besar, hal ini karena 
+
+#### 3. Sulitnya Mendeteksi Kesalahan
+Kinerja Python yang dinamis juga memiliki dampak negatif, salah satunya adalah semakin sulitnya unruk mendeteksi kesalahkan yang ada di dalam kode proyek. 
+
+#### 4. Kurang Mendukung untuk Aplikasi Mobile
+Meskipun Python juga memungkinkan untuk membuat aplikasi _mobile_, namun dukungan yang dimiliki masih sedikit. Sehingga pengguna lebih sering menggunakan Java ataupun Swift untuk mengembangkan aplikasi _mobile_ dibandingkan dengan Python. 
 
 ## Tren Pengembangan
 
