@@ -33,7 +33,7 @@ Dengan melali _interpreter_, Python memungkinkan pengujian kode proyek secara la
 Tidak seperti Java dan C++, Python memiliki peforma yang lebih lambat. Hal ini disebabkan oleh adanya _Global Interpreter Lock_ (GIL) yang digunakan untuk mengeksekusi satu kode saja dalam satu waktu.
 
 #### 2. Penggunaan Memori
-Python memerlukan memori yang besar, hal ini karena 
+Python memerlukan memori yang besar, hal ini karena Python menggunakan memori untuk menyimpan berbagai data objek, referensi serta ukurannya. 
 
 #### 3. Sulitnya Mendeteksi Kesalahan
 Kinerja Python yang dinamis juga memiliki dampak negatif, salah satunya adalah semakin sulitnya unruk mendeteksi kesalahkan yang ada di dalam kode proyek. 
