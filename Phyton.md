@@ -1,5 +1,6 @@
 # Python
-![alt text](https://github.com/user-attachments/assets/5484e6cb-2774-425e-926b-9320edc5633b)  
+![Python-Logo](https://github.com/user-attachments/assets/102d0f01-291a-41d2-aa6e-5ea9c5b2c439)
+
 ## Definisi 
 
 ## Kelebihan dan Kekurangan
