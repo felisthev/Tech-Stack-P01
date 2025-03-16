@@ -1,10 +1,26 @@
 # Python
+ <img src=”https://a.com” alt=”Alt” />
 ## Definisi 
+
 ## Kelebihan dan Kekurangan
 ### Kelebihan
+#### 1. 
+#### 2. 
+#### 3. 
+#### 4. 
+#### 5. 
+
 ### Kekurangan
+#### 1. 
+#### 2. 
+#### 3. 
+#### 4. 
+#### 5. 
+
 ## Tren Pengembangan
+
 ## Contoh Perusahaan 
+
 ## Sumber: 
 <a href=”https://dqlab.id/belajar-python-kenali-kelebihan-kekurangan-penerapan-serta-cara-mendownloadnya”>https://dqlab.id/belajar-python-kenali-kelebihan-kekurangan-penerapan-serta-cara-mendownloadnya</a>  
 <a href=”https://instiki.ac.id/2023/03/19/5-perusahaan-besar-yang-menggunakan-python-sebagai-bahasa-pemrogramannya//”>https://instiki.ac.id/2023/03/19/5-perusahaan-besar-yang-menggunakan-python-sebagai-bahasa-pemrogramannya/ </a>   
