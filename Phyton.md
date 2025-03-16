@@ -1,5 +1,5 @@
 # Python
- <img src=”https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png” alt=”Alt” />
+![alt text](https://github.com/user-attachments/assets/5484e6cb-2774-425e-926b-9320edc5633b)  
 ## Definisi 
 
 ## Kelebihan dan Kekurangan
