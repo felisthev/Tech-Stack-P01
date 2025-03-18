@@ -42,6 +42,8 @@ Kinerja Python yang dinamis juga memiliki dampak negatif, salah satunya adalah s
 Meskipun Python juga memungkinkan untuk membuat aplikasi _mobile_, namun dukungan yang dimiliki masih sedikit. Sehingga pengguna lebih sering menggunakan Java ataupun Swift untuk mengembangkan aplikasi _mobile_ dibandingkan dengan Python. 
 
 ## Tren Pengembangan
+#### 1. Kecerdasan Buatan dan Python
+Python kini menjadi bahasa yang sangat terkait dengan kecerdasan buatan (AI). Seperti TensorFlow, PyTorch, dan Scikit
 
 ## Contoh Perusahaan 
 
